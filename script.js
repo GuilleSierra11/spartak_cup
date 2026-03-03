@@ -72,7 +72,7 @@ const cartas = [
     {
         imagen: "Cartas/vetado.png",
         precio: 30,
-        duracion: "1 horas"
+        duracion: "1 hora"
     }
 ]
 
@@ -121,6 +121,7 @@ modal.onclick = function(e) {
     }
 
 }
+
 
 
 
