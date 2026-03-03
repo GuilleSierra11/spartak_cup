@@ -1,76 +1,76 @@
 const cartas = [
     {
-        imagen: "cartas/bidoff.png",
+        imagen: "Cartas/bidoff.png",
         precio: 50,
         duracion: "3 horas"
     },
     {
-        imagen: "cartas/cambio.png",
+        imagen: "Cartas/cambio.png",
         precio: 80,
         duracion: "Al instante"
     },
     {
-        imagen: "cartas/candado.png",
+        imagen: "Cartas/candado.png",
         precio: 120,
         duracion: "1 hora y 30 minutos"
     },
     {
-        imagen: "cartas/cap.png",
+        imagen: "Cartas/cap.png",
         precio: 50,
         duracion: "Al instante"
     },
     {
-        imagen: "cartas/copia.png",
+        imagen: "Cartas/copia.png",
         precio: 80,
         duracion: "Al instante"
     },
     {
-        imagen: "cartas/especial.png",
+        imagen: "Cartas/especial.png",
         precio: 120,
         duracion: "5 horas"
     },
     {
-        imagen: "cartas/hembras.png",
+        imagen: "Cartas/hembras.png",
         precio: 50,
         duracion: "2 horas"
     },
     {
-        imagen: "cartas/karateka.png",
+        imagen: "Cartas/karateka.png",
         precio: 80,
         duracion: "3 horas"
     },
     {
-        imagen: "cartas/la_llamada.png",
+        imagen: "Cartas/la_llamada.png",
         precio: 120,
         duracion: "Al instante"
     },
     {
-        imagen: "cartas/La_parca.png",
+        imagen: "Cartas/La_parca.png",
         precio: 50,
         duracion: "Al instante"
     },
     {
-        imagen: "cartas/machos.png",
+        imagen: "Cartas/machos.png",
         precio: 80,
         duracion: "2 horas"
     },
     {
-        imagen: "cartas/monotype.png",
+        imagen: "Cartas/monotype.png",
         precio: 120,
         duracion: "2 horas"
     },
     {
-        imagen: "cartas/ruleta.png",
+        imagen: "Cartas/ruleta.png",
         precio: 50,
         duracion: "Al instante"
     },
     {
-        imagen: "cartas/TR.png",
+        imagen: "Cartas/TR.png",
         precio: 80,
         duracion: "Al instante"
     },
     {
-        imagen: "cartas/vetado.png",
+        imagen: "Cartas/vetado.png",
         precio: 120,
         duracion: "1 horas"
     }
@@ -119,4 +119,5 @@ modal.onclick = function(e) {
     if (e.target === modal) {
         modal.style.display = "none"
     }
+
 }
