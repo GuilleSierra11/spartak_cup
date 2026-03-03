@@ -6,7 +6,7 @@ const cartas = [
     },
     {
         imagen: "Cartas/cambio.png",
-        precio: 20,
+        precio: 30,
         duracion: "Al instante"
     },
     {
@@ -121,6 +121,7 @@ modal.onclick = function(e) {
     }
 
 }
+
 
 
 
