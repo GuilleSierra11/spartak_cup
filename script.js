@@ -1,6 +1,6 @@
 const cartas = [
     {
-        imagen: "Cartas/bidoff.png",
+        imagen: "/spartak_cup/Cartas/bidoff.png",
         precio: 50,
         duracion: "3 horas"
     },
@@ -121,4 +121,5 @@ modal.onclick = function(e) {
     }
 
 }
+
 
