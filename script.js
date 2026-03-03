@@ -27,7 +27,7 @@ const cartas = [
     {
         imagen: "Cartas/especial.png",
         precio: 40,
-        duracion: "5 horas"
+        duracion: "3 horas"
     },
     {
         imagen: "Cartas/hembras.png",
@@ -121,6 +121,7 @@ modal.onclick = function(e) {
     }
 
 }
+
 
 
 
