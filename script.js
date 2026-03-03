@@ -41,12 +41,12 @@ const cartas = [
     },
     {
         imagen: "Cartas/la_llamada.png",
-        precio: 60,
+        precio: 75,
         duracion: "Al instante"
     },
     {
         imagen: "Cartas/la_parca.png",
-        precio: 60,
+        precio: 75,
         duracion: "Al instante"
     },
     {
@@ -56,12 +56,12 @@ const cartas = [
     },
     {
         imagen: "Cartas/monotype.png",
-        precio: 45,
+        precio: 50,
         duracion: "2 horas"
     },
     {
         imagen: "Cartas/ruleta.png",
-        precio: 20,
+        precio: 15,
         duracion: "Al instante"
     },
     {
@@ -71,7 +71,7 @@ const cartas = [
     },
     {
         imagen: "Cartas/vetado.png",
-        precio: 30,
+        precio: 15,
         duracion: "1 hora"
     }
 ]
@@ -121,6 +121,7 @@ modal.onclick = function(e) {
     }
 
 }
+
 
 
 
