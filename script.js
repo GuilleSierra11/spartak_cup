@@ -6,72 +6,72 @@ const cartas = [
     },
     {
         imagen: "Cartas/cambio.png",
-        precio: 80,
+        precio: 20,
         duracion: "Al instante"
     },
     {
         imagen: "Cartas/candado.png",
-        precio: 120,
+        precio: 30,
         duracion: "1 hora y 30 minutos"
     },
     {
         imagen: "Cartas/cap.png",
-        precio: 50,
+        precio: 35,
         duracion: "Al instante"
     },
     {
         imagen: "Cartas/copia.png",
-        precio: 80,
+        precio: 55,
         duracion: "Al instante"
     },
     {
         imagen: "Cartas/especial.png",
-        precio: 120,
+        precio: 40,
         duracion: "5 horas"
     },
     {
         imagen: "Cartas/hembras.png",
-        precio: 50,
+        precio: 40,
         duracion: "2 horas"
     },
     {
         imagen: "Cartas/karateka.png",
-        precio: 80,
+        precio: 40,
         duracion: "3 horas"
     },
     {
         imagen: "Cartas/la_llamada.png",
-        precio: 120,
+        precio: 60,
         duracion: "Al instante"
     },
     {
         imagen: "Cartas/la_parca.png",
-        precio: 50,
+        precio: 60,
         duracion: "Al instante"
     },
     {
         imagen: "Cartas/machos.png",
-        precio: 80,
+        precio: 40,
         duracion: "2 horas"
     },
     {
         imagen: "Cartas/monotype.png",
-        precio: 120,
+        precio: 45,
         duracion: "2 horas"
     },
     {
         imagen: "Cartas/ruleta.png",
-        precio: 50,
+        precio: 20,
         duracion: "Al instante"
     },
     {
         imagen: "Cartas/tr.png",
-        precio: 80,
+        precio: 60,
         duracion: "Al instante"
     },
     {
         imagen: "Cartas/vetado.png",
-        precio: 120,
+        precio: 30,
         duracion: "1 horas"
     }
 ]
@@ -121,5 +121,6 @@ modal.onclick = function(e) {
     }
 
 }
+
 
 
