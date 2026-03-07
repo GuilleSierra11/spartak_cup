@@ -1,36 +1,36 @@
 const cartas = [
     {
-        imagen: "cartas/bidoff.png",
+        imagen: "Cartas/bidoff.png",
         precio: 50,
         duracion: "3 horas"
     },
     {
-        imagen: "cartas/cambio.png",
+        imagen: "Cartas/cambio.png",
         precio: 80,
         duracion: "Al instante"
     },
     {
-        imagen: "cartas/candado.png",
+        imagen: "Cartas/candado.png",
         precio: 120,
         duracion: "1 hora y 30 minutos"
     },
     {
-        imagen: "cartas/cap.png",
+        imagen: "Cartas/cap.png",
         precio: 100,
         duracion: "Al instante"
     },
     {
-        imagen: "cartas/copia.png",
+        imagen: "Cartas/copia.png",
         precio: 80,
         duracion: "Al instante"
     },
     {
-        imagen: "cartas/especial.png",
+        imagen: "Cartas/especial.png",
         precio: 120,
         duracion: "5 horas"
     },
     {
-        imagen: "cartas/hembras.png",
+        imagen: "Cartas/hembras.png",
         precio: 50,
         duracion: "2 horas"
     },
@@ -40,12 +40,12 @@ const cartas = [
         duracion: "3 horas"
     },
     {
-        imagen: "cartas/la_llamada.png",
+        imagen: "Cartas/la_llamada.png",
         precio: 120,
         duracion: "Al instante"
     },
     {
-        imagen: "cartas/la_parca.png",
+        imagen: "Cartas/la_parca.png",
         precio: 50,
         duracion: "Al instante"
     },
@@ -55,32 +55,32 @@ const cartas = [
         duracion: "2 horas"
     },
     {
-        imagen: "cartas/monotype.png",
+        imagen: "Cartas/monotype.png",
         precio: 120,
         duracion: "2 horas"
     },
     {
-        imagen: "cartas/ruleta.png",
+        imagen: "Cartas/ruleta.png",
         precio: 50,
         duracion: "Al instante"
     },
     {
-        imagen: "cartas/TR.png",
+        imagen: "Cartas/TR.png",
         precio: 80,
         duracion: "Al instante"
     },
     {
-        imagen: "cartas/vetado.png",
+        imagen: "Cartas/vetado.png",
         precio: 120,
         duracion: "1 hora"
     },
     {
-        imagen: "cartas/doble_o_nada.png",
+        imagen: "Cartas/doble_o_nada.png",
         precio: "A tu elección",
         duracion: "Al instante"
     },
     {
-        imagen: "cartas/desarme.png",
+        imagen: "Cartas/desarme.png",
         precio: 40,
         duracion: "3 horas"
     }
@@ -140,3 +140,4 @@ modal.onclick = function(e) {
         modal.style.display = "none"
     }
 }
+
