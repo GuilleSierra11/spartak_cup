@@ -35,7 +35,7 @@ const cartas = [
         duracion: "2 horas"
     },
     {
-        imagen: "cartas/karateka.png",
+        imagen: "Cartas/karateka.png",
         precio: 80,
         duracion: "3 horas"
     },
@@ -50,7 +50,7 @@ const cartas = [
         duracion: "Al instante"
     },
     {
-        imagen: "cartas/machos.png",
+        imagen: "Cartas/machos.png",
         precio: 80,
         duracion: "2 horas"
     },
@@ -140,5 +140,6 @@ modal.onclick = function(e) {
         modal.style.display = "none"
     }
 }
+
 
 
