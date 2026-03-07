@@ -73,6 +73,16 @@ const cartas = [
         imagen: "Cartas/vetado.png",
         precio: 15,
         duracion: "1 hora"
+    },
+    {
+        imagen: "Cartas/doble_o_nada.png",
+        precio: A tu elección,
+        duracion: "Al instante"
+    },
+    {
+        imagen: "Cartas/desarme.png",
+        precio: 40,
+        duracion: "3 hora"
     }
 ]
 
@@ -121,6 +131,7 @@ modal.onclick = function(e) {
     }
 
 }
+
 
 
 
