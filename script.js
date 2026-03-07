@@ -65,7 +65,7 @@ const cartas = [
         duracion: "Al instante"
     },
     {
-        imagen: "Cartas/TR.png",
+        imagen: "Cartas/tr.png",
         precio: 80,
         duracion: "Al instante"
     },
@@ -140,4 +140,5 @@ modal.onclick = function(e) {
         modal.style.display = "none"
     }
 }
+
 
