@@ -1,82 +1,82 @@
 const cartas = [
     {
         imagen: "Cartas/bidoff.png",
-        precio: 50,
+        precio: 30,
         duracion: "3 horas"
     },
     {
         imagen: "Cartas/cambio.png",
-        precio: 80,
+        precio: 20,
         duracion: "Al instante"
     },
     {
         imagen: "Cartas/candado.png",
-        precio: 120,
+        precio: 20,
         duracion: "1 hora y 30 minutos"
     },
     {
         imagen: "Cartas/cap.png",
-        precio: 100,
+        precio: 25,
         duracion: "Al instante"
     },
     {
         imagen: "Cartas/copia.png",
-        precio: 80,
+        precio: 60,
         duracion: "Al instante"
     },
     {
         imagen: "Cartas/especial.png",
-        precio: 120,
-        duracion: "5 horas"
+        precio: 40,
+        duracion: "3 horas"
     },
     {
         imagen: "Cartas/hembras.png",
-        precio: 50,
+        precio: 40,
         duracion: "2 horas"
     },
     {
         imagen: "Cartas/karateka.png",
-        precio: 80,
+        precio: 40,
         duracion: "3 horas"
     },
     {
         imagen: "Cartas/la_llamada.png",
-        precio: 120,
+        precio: 75,
         duracion: "Al instante"
     },
     {
         imagen: "Cartas/la_parca.png",
-        precio: 50,
+        precio: 75,
         duracion: "Al instante"
     },
     {
         imagen: "Cartas/machos.png",
-        precio: 80,
+        precio: 40,
         duracion: "2 horas"
     },
     {
         imagen: "Cartas/monotype.png",
-        precio: 120,
-        duracion: "2 horas"
+        precio: 50,
+        duracion: "3 horas"
     },
     {
         imagen: "Cartas/ruleta.png",
-        precio: 50,
+        precio: 25,
         duracion: "Al instante"
     },
     {
         imagen: "Cartas/tr.png",
-        precio: 80,
+        precio: 60,
         duracion: "Al instante"
     },
     {
         imagen: "Cartas/vetado.png",
-        precio: 120,
-        duracion: "1 hora"
+        precio: 15,
+        duracion: "3 hora"
     },
     {
         imagen: "Cartas/doble_o_nada.png",
-        precio: "A tu elección",
+        precio: "a tu elección",
         duracion: "Al instante"
     },
     {
@@ -140,6 +140,7 @@ modal.onclick = function(e) {
         modal.style.display = "none"
     }
 }
+
 
 
 
