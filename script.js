@@ -83,6 +83,16 @@ const cartas = [
         imagen: "Cartas/desarme.png",
         precio: 40,
         duracion: "3 horas"
+    },
+    {
+        imagen: "Cartas/Sincronía.png",
+        precio: 70,
+        duracion: "Al instante"
+    },
+    {
+        imagen: "Cartas/sombra_trampa.png",
+        precio: 50,
+        duracion: "3 horas"
     }
 ]
 
