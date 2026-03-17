@@ -1,7 +1,7 @@
 const cartas = [
     {
         imagen: "Cartas/bidoff.png",
-        precio: 30,
+        precio: 15,
         duracion: "3 horas"
     },
     {
