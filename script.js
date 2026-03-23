@@ -21,7 +21,7 @@ const cartas = [
     },
     {
         imagen: "Cartas/copia.png",
-        precio: 60,
+        precio: 65,
         duracion: "Al instante"
     },
     {
@@ -93,6 +93,16 @@ const cartas = [
         imagen: "Cartas/sombra_trampa.png",
         precio: 50,
         duracion: "3 horas"
+    },
+    {
+        imagen: "Cartas/quitamov.png",
+        precio: 65,
+        duracion: "Un límite semanal"
+    },
+    {
+        imagen: "Cartas/profanatumbas.png",
+        precio: 70,
+        duracion: "Al instante"
     }
 ]
 
