@@ -103,6 +103,21 @@ const cartas = [
         imagen: "Cartas/profanatumbas.png",
         precio: 70,
         duracion: "Al instante"
+    },
+    {
+        imagen: "Cartas/muerte_bluetooth.png",
+        precio: 75,
+        duracion: "Hasta 1º muerte tras el uso"
+    },
+    {
+        imagen: "Cartas/elijo.png",
+        precio: 45,
+        duracion: "Un límite semanal"
+    },
+    {
+        imagen: "Cartas/shiny_plus.png",
+        precio: 20,
+        duracion: "Al instante"
     }
 ]
 
